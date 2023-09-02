@@ -13,7 +13,7 @@ To run this application locally, follow the steps below:
 
 1. Clone the repository to your local machine.
 
-2. Install any server of your choice or use a JSON server. Make sure the server is running on `http://localhost:5000/`.
+2. Install any server of your choice or use a JSON server. Make sure the server is running on `http://localhost:3000/` or local host of your choice.
 
 3. Open the `index.html` file in your web browser.
 
