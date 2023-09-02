@@ -1,3 +1,8 @@
+# GoalGetter To-Do App
+
+![Imagen de WhatsApp 2023-09-02 a las 13 42 20](https://github.com/pikapikapixi/GoalGetter-ToDo-App/assets/135671082/00458f26-3c08-4c78-92ae-716782fb55dd)
+
+
 # JavaScript Task Manager
 
 This is a simple JavaScript code for a task manager application. It utilizes jQuery and AJAX to interact with a JSON server and perform CRUD operations on tasks.
