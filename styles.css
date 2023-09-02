@@ -1,0 +1,36 @@
+body {
+  background-color: #f1e3f1;
+}
+
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#addTaskForm {
+  margin-bottom: 20px;
+}
+
+#taskList {
+  list-style: decimal;
+  padding: 0;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #e2c8df;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.task-item button {
+  margin-left: 10px;
+}
+
